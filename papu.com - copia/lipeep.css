@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: url("img/PAPAS.jpg");
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+header h1 {
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    text-shadow: 1px 1px rgb(160, 160, 160);
+}
+h1 {
+    font-size: 30px;
+    margin: 20px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Roboto Slab', serif;
+}
+article {
+    display:flex;
+    justify-content: center;
+}
+h2 {
+    width: 500px;
+    margin: 20px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Roboto Slab', serif;
+}
+nav a {
+    font-size: 20px;
+    text-decoration: none; 
+    color: black;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+nav{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+footer {
+    width: 100vw;
+    height: 25vh;
+    
+    background-color: blanchedalmond;
+    background-size: cover;
+}
+#porcia {
+    background-image: url("img/papu.jpg");
+}
+#porcia h1 {
+    text-shadow: 1px 1px rgb(160, 160, 160);
+}
+#porcia li {
+    text-shadow: 1px 1px rgb(133, 95, 95);
+}
+.cajitafeliz h1 {
+    display: flex;
+    justify-content: center;
+   
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+.cajitafeliz h2 {
+    display: flex;
+    justify-content: center;
+   
+}
